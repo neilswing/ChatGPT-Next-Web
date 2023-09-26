@@ -50,8 +50,11 @@ export default function RootLayout({
           data-ad-format="auto"
           data-full-width-responsive="true"
         ></ins>
-
         <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        <meta
+          name="1bff90ce9782eb0f75cb11fedf1b8d508715fecd"
+          content="1bff90ce9782eb0f75cb11fedf1b8d508715fecd"
+        />
       </body>
     </html>
   );
