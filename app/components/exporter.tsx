@@ -484,7 +484,7 @@ export function ImagePreviewer(props: {
           </div>
 
           <div>
-            <div className={styles["main-title"]}>BingBlong</div>
+            <div className={styles["main-title"]}>Neil AI</div>
             <div className={styles["sub-title"]}>neilswing.com</div>
             <div className={styles["icons"]}>
               <ExportAvatar avatar={config.avatar} />
